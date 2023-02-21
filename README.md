@@ -1,4 +1,4 @@
-# TI-Project
+# TI
 Project made by me for an evaluation 
 
 GAME: Bit Math
