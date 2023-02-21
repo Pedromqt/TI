@@ -1,2 +1,2 @@
 # TI
-Project made by me for an evaluation.
+Here are the projects I made on this subject.
